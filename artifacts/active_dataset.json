@@ -1,0 +1,11 @@
+{
+  "name": "telegram_20250915_20251005.json",
+  "path": "dataset/telegram_20250915_20251005.json",
+  "total_messages": 365,
+  "updated_at": "2025-10-05T07:39:10.578592",
+  "params": {
+    "n_components": 50,
+    "metric": "cosine",
+    "normalize": false
+  }
+}
